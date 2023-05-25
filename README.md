@@ -1,5 +1,5 @@
 
-[![aaronhowser1's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronhowser1)](https://github.com/anuraghazra/github-readme-stats)
+[![aaronhowser1's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronhowser1&count_private=true&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **aaronhowser1/aaronhowser1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
